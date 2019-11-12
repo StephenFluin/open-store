@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "open-store"
+    }
+  },
+  "defaultProject": "open-store",
+  "cli": {
+    "analytics": "110f6cc7-1e42-4e14-9fa3-0b05e8b3fcea"
+  }
 }
